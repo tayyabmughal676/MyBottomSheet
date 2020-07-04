@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Bottom Sheet</string>
+    <string name="number">(650) 555-1122</string>
+    <string name="sophia_connors">Sophia Connors</string>
+    <string name="mobile">Mobile</string>
+    <string name="open_persistent_bottom_sheet">Open Persistent Bottom Sheet</string>
+</resources>
